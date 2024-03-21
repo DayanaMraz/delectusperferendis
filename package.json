@@ -1,0 +1,28 @@
+{
+  "name": "delectusperferendis",
+  "version": "1.0.0",
+  "description": "FullCalendar wrapper for vue",
+  "main": "index.js",
+  "browserify": {
+    "transform": [
+      "vueify"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DayanaMraz/delectusperferendis.git"
+  },
+  "keywords": [
+    "ab",
+    "fullcalendar",
+    "velit",
+    "vel"
+  ],
+  "author": "SabinaHickle",
+  "license": "ISC",
+  "homepage": "https://github.com/DayanaMraz/delectusperferendis.git",
+  "dependencies": {
+    "fullcalendar": "^3.3.0",
+    "lodash.defaultsdeep": "^4.6.0"
+  }
+}
